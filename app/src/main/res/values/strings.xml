@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">davaleba_6</string>
+    <string name="home">home</string>
+    <string name="open_second_fragment">open_second_Fragment</string>
+    <string name="second_screen">second_screen</string>
+    <string name="go_back">go_back</string>
+    <string name="go_To_Next">Travel To Fragment</string>
+    <string name="Teleport_Back">Teleport_back</string>
+    <string name="new_Fragment">New Fragment</string>
+    <string name="Fragment">Fragment</string>
+</resources>
